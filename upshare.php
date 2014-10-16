@@ -3,7 +3,7 @@
  * @package UP Share
  */
 /*
-Plugin Name: Viral Social Sharing Icons by UP
+Plugin Name: Viral Social Sharing by UP
 Version: 1.0.0
 Author: UP
 Author URI: http://www.upshare.co
