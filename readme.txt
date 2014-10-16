@@ -7,7 +7,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Viral Sharing Plugin from UP change the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff. 
+The Viral Social Sharing plugin changes the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff. 
 
 == Description ==
 
