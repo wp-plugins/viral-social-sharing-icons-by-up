@@ -111,7 +111,7 @@ function upshare_settings() {
 	<section id="partner-id">
 		<div id="upwrapper">
 			<div class="partner-id-main-contant1">
-				<h1>UP is currently configured on your site</h1>
+				<h1>VISIT YOUR DASHBOARD TO CHOOSE THE PLACEMENT OF YOUR SHARING BUTTONS</h1>
 				<div align="center" style="padding-top: 10px;">
 					<a class="partner-botton" href="http://www.upshare.co/partners/sign_in?" target="_blank">My Dashboard</a>
 				</div>
@@ -149,9 +149,9 @@ function upshare_settings() {
 				</div>
 
 				<div class="widget-second1">
-					<h1>Go Viral</h1>
+					<h1>Select Your Placement</h1>
 					<p>
-						The formula for going viral is simple: produce good content, and give users a good reason to share it. You take care of the content. UP takes care of the rest.
+						Your UP Partner Dashboard gives you quick and easy control over the placement of your sharing buttons, as well as tons of other powerful features that can help you go viral.
 					</p>
 
 				</div>
