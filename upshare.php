@@ -240,3 +240,4 @@ class UP_ViralSharingSocial
 new UP_ViralSharingSocial();
 register_deactivation_hook(__FILE__, array('UP_ViralSharingSocial', 'myplugin_deactivation'));
 register_activation_hook(__FILE__, array('UP_ViralSharingSocial', 'myplugin_activation'));
+
