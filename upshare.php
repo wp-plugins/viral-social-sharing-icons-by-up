@@ -154,7 +154,7 @@ class UP_ViralSharingSocial
 	public function setup_theme_admin_menus()
 	{
 		add_menu_page(__('UP','menu-test'), __('UP','menu-test'), 'manage_options', 'upshare-settings-page', array($this, 'upshare_settings') , 
-						plugins_url( 'viral-social-sharing-by-up/images/menu-icon2.png' ) );
+						plugins_url( 'viral-social-sharing-icons-by-up/images/menu-icon2.png' ) );
 		$json = $this->queryApi();
 		//$partner_id = get_option("partner_id");
 		$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : '';
