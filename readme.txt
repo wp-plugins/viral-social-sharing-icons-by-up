@@ -28,6 +28,8 @@ Stop begging users to share your content on social media and giving them nothing
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized Social Media sharing!
 
+DOWNLOAD SOCIAL SHARING PLUGIN BY UP (https://downloads.wordpress.org/plugin/viral-social-sharing-icons-by-up.zip)
+
 = Custom Social Sharing Placement =
 
 *   Responsive and customizable
@@ -68,7 +70,7 @@ Stop begging users to share your content on social media and giving them nothing
 
 = 100% Free and Always Will Be =
 
-*   Just install the Social Sharing Buttons and [sign up as a partner](https://www.upshare.co/partners/sign_up?origin=wp) for free in 30 seconds or less
+*   Install the Social Sharing Buttons and for free in 30 seconds or less
 *   Users see the UP icon and automatically know they get points for sharing
 *   Industry-leading partner support (we actually listen to your feedback)
 *   Incredibly-detailed documentation and tutorials
@@ -84,8 +86,7 @@ Stop begging users to share your content on social media and giving them nothing
 <li>Click Install Now</li>
 <li>Activate the plugin/li>
 <li>Open the Plugin Settings page</li>
-<li>Enter your Partner ID (get it for free in 30 seconds by <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">clicking here</a>).</li>
-<li>Tweak your settings to your liking – and enjoy!</li>
+<li>Click the Create Partner account link – and enjoy!</li>
 </ol>
 
 <h4>Manual installation of the Social Sharing Wordpress Plugin via FTP</h4>
@@ -105,7 +106,7 @@ Stop begging users to share your content on social media and giving them nothing
 <h4>Skip the plugin and install the JavaScript snippet directly into your HTML:</h4>
 
 <ol>
-<li>Navigate to <a href="https://www.upshare.co/partners" target="_Blank">www.upshare.co/partners</a>.</li>
+<li>Navigate to <a href="https://www.upshare.co/partners" target="_Blank">www.upshare.co/partners/sign_up</a>.</li>
 <li>Fill out the short form to create your free partner account</li>
 <li>Grab your JavaScript snippet from the following page</li>
 <li>Navigate to the Editor screen in your WordPress admin panel/li>
