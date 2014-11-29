@@ -12,6 +12,7 @@ The Viral Social Sharing plugin changes the way sites go viral. Users share cont
 == Description ==
 [vimeo http://vimeo.com/105724953]
 
+= Viral Social Sharing = 
 Get more traffic on your site and increase viral interaction by installing the UP Viral Social Sharing widget! Unlike your normal, everyday Social Media Buttons, UP’s proprietary technology has been designed to help make your site more viral. 
 
 With UP, each time users share your content on their favorite social media pages, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across social networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social media pages and social networks. 
@@ -28,7 +29,7 @@ Stop begging users to share your content on social media and giving them nothing
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized Social Media sharing!
 
-DOWNLOAD SOCIAL SHARING PLUGIN BY UP (https://downloads.wordpress.org/plugin/viral-social-sharing-icons-by-up.zip)
+[>> Click here to download plugin](https://downloads.wordpress.org/plugin/viral-social-sharing-icons-by-up.zip)
 
 = Custom Social Sharing Placement =
 
@@ -70,7 +71,7 @@ DOWNLOAD SOCIAL SHARING PLUGIN BY UP (https://downloads.wordpress.org/plugin/vir
 
 = 100% Free and Always Will Be =
 
-*   Install the Social Sharing Buttons and for free in 30 seconds or less
+*   Install the Social Sharing Buttons for free in 30 seconds or less
 *   Users see the UP icon and automatically know they get points for sharing
 *   Industry-leading partner support (we actually listen to your feedback)
 *   Incredibly-detailed documentation and tutorials
