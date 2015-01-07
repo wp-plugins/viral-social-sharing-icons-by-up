@@ -3,7 +3,7 @@ Contributors: upshare
 Tags: add to any, AddThis, addtoany, admin, bitly, bookmark, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, e-mail, email, Facebook, facebook like, facebook share, floating, floating buttons, google, google +1, google plus, google plus one, icon, icons, image, images, Like, linkedin, links, lockerz, page, pages, plugin, plus 1, plus one, Post, posts, print, Reddit, responsive, save, seo, Share, sharebar, sharing buttons, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, shortcode, sidebar, sociable, social, social bookmarking, social button, social buttons, social bookmarks, social media buttons, social share, social sharing, socialize, statistics, stats, stumbleupon, svg, tumblr, tweet, tweet button, twitter, twitter button, twitter share, vector, wanelo, whatsapp, widget, widgets, wpmu
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -126,8 +126,12 @@ Stop begging users to share your content on social media and giving them nothing
 4. You don’t just want people to share your content – you want them to start CONVERSATIONS around your content that their social networks engage in. Stop begging users to share your content and giving them nothing in return. Use Viral Social Sharing by UP – and give them a reason to share on Social Media!
 
 == Changelog ==
-= 1.0.0 = 
+= 1.0.1 = 
 * First release
+= 1.0.2 = 
+* Added new incontent sharing button display mode called UPBlog.
+* Added ability to display share counts on network icons
+* Added 10 new placement modes to UPShare widget.
 
 == Upgrade Notice ==
 There is no need to upgrade just yet.
