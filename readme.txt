@@ -7,10 +7,9 @@ Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Viral Social Sharing plugin changes the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff. 
+The Viral Social Sharing plugin from UP change the way sites go viral. With our responsive, cloud-based, fully customizable viral buttons, you can automatically drive more traffic to your site for free.
 
 == Description ==
-[vimeo http://vimeo.com/105724953]
 
 = Viral Social Sharing = 
 Get more traffic on your site and increase viral interaction by installing the UP Viral Social Sharing widget! Unlike your normal, everyday Social Media Buttons, UP’s proprietary technology has been designed to help make your site more viral. 
