@@ -162,8 +162,8 @@ class UP_ViralSharingSocial
 	
 		if( $partner_id == "" ) 
 		{
-			add_submenu_page('upshare-settings-page', 'UPshare', 'Signup for UP', 'manage_options', 'signup_upshare_page', 
-								array($this, 'upshare_sub_settings'));
+			//add_submenu_page('upshare-settings-page', 'UPshare', 'Signup for UP', 'manage_options', 'signup_upshare_page', 
+								//array($this, 'upshare_sub_settings'));
 		}
 	}
 	public function upshare_sub_settings()
