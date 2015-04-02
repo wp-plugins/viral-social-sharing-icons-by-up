@@ -38,7 +38,7 @@ Stop begging users to share your content on social media and giving them nothing
 *   Easily controlled from your UP dashboard
 *   One-click install, or easy-to-implement shortcode
 *   Never impedes your content
-*   [Click here for a live demo](http://blog.upshare.co/sharing-buttons-demo/)
+*   [Click here for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress)
 
 = Lightening Fast =
 
@@ -84,32 +84,31 @@ Stop begging users to share your content on social media and giving them nothing
 <li>Go to the “Add New Plugins” screen in your WordPress admin area</li>
 <li>Search for “Viral Social Sharing by UP”</li>
 <li>Click Install Now</li>
-<li>Activate the plugin/li>
-<li>Open the Plugin Settings page</li>
-<li>Click the Create Partner account link – and enjoy!</li>
+<li>Activate the plugin</li>
+<li>Browse to your site's homepage</li>
+<li>Click on the green UP Arrow in the top right and follow the instructions</li>
 </ol>
 
 <h4>Manual installation of the Social Sharing Wordpress Plugin via FTP</h4>
 
 <ol>
 <li>Upload the upshare folder to the `/wp-content/plugins/` directory</li>
-<li>Follow steps 4-7 above.</li>
+<li>Follow steps 4-6 above.</li>
 </ol>
 
 <h4>To upload the Social Sharing plugin through WordPress, instead of FTP:</h4>
 
 <ol>
 <li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area.</li>
-<li>Follow steps 4-7 above.</li>
+<li>Follow steps 4-6 above.</li>
 </ol>
 
 <h4>Skip the plugin and install the JavaScript snippet directly into your HTML:</h4>
 
 <ol>
-<li>Navigate to <a href="https://www.upshare.co/partners" target="_Blank">www.upshare.co/partners/sign_up</a>.</li>
-<li>Fill out the short form to create your free partner account</li>
+<li>Navigate to <a href="http://www.upshare.co/partners/setup" target="_Blank">http://www.upshare.co/partners/setup</a>.</li>
 <li>Grab your JavaScript snippet from the following page</li>
-<li>Navigate to the Editor screen in your WordPress admin panel/li>
+<li>Navigate to the Editor screen in your WordPress admin panel</li>
 <li>Pull up the Header file from the list on the right</li>
 <li>Paste your JavaScript snippet right before the closing </head> tag in your Header file</li>
 <li>Save the file</li>
@@ -119,10 +118,9 @@ Stop begging users to share your content on social media and giving them nothing
 
 == Screenshots ==
  
-1. Get more traffic on your site and increase viral interaction by installing the Viral Social Sharing Buttons widget from UP! Unlike your normal, everyday Social Sharing Buttons, UP’s proprietary technology has been designed to help make your site more viral.  
-2. With UP, each time users share your content on their favorite social networks and social media pages, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across social media sites like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network social and viral data on how your users are sharing your content on their social media pages.
-3. What’s more - by signing up as an <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">UP Partner</a> for free, you get access to social media demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
-4. You don’t just want people to share your content – you want them to start CONVERSATIONS around your content that their social networks engage in. Stop begging users to share your content and giving them nothing in return. Use Viral Social Sharing by UP – and give them a reason to share on Social Media!
+1. Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
+2.
+3.
 
 == Changelog ==
 = 1.0.1 = 
