@@ -14,6 +14,10 @@ The Viral Social Sharing plugin from UP changes the way sites go viral. With our
 = Viral Social Sharing = 
 Get more shares on your content and increase your site’s viral growth by installing the UP Viral Social Sharing widget! Unlike your normal, everyday social sharing plugin, UP’s responsive, cloud-based sharing tools have been specifically designed to help boost viral growth without slowing down load time. 
 
+[>> CLICK HERE for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress.com)
+
+[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-sharing-icons-by-up.zip)
+
 With UP Social Sharing, as users start sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
 
 You can also turn OFF the UP icon if you simply want simple, cloud-based, responsive sharing buttons that work on the web and mobile WITHOUT sharing incentives.
