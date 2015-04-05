@@ -222,7 +222,7 @@ class UP_ViralSharingSocial
 	}
 	public function filter_the_content($content)
 	{
-		return '<div id="upinpost-header" style="clear:both"></div>'.$content . '<div id="upinpost-footer" style="clear:both"></div><style>#up-branding{position:fixed;bottom:0px;right:-150px;a{font-size:8px;}}</style><div id="up-branding">Viral <a target="_blank" href="http://www.upshare.co/buttons/">Buttons</a> by UP</div>';
+		return '<div id="upinpost-header" style="clear:both"></div>'.$content . '<div id="upinpost-footer" style="clear:both"></div>';
 	}
 	protected function queryApi()
 	{
