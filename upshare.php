@@ -238,6 +238,14 @@ class UP_ViralSharingSocial
 		
 	}
 }
+
+function viral_share_footer(){
+
+echo '<style>#up-branding{position:fixed;bottom:0px;right:-150px;a{font-size:8px;}}</style><div id="up-branding">Viral <a target="_blank" href="http://www.upshare.co/buttons/">Buttons</a> by UP</div>';
+
+ } 
+add_action( 'wp_footer', 'viral_share_footer', 5 );
+
 new UP_ViralSharingSocial();
 register_deactivation_hook(__FILE__, array('UP_ViralSharingSocial', 'myplugin_deactivation'));
 register_activation_hook(__FILE__, array('UP_ViralSharingSocial', 'myplugin_activation'));
