@@ -6,8 +6,8 @@
 Plugin Name: Viral Social Sharing by UP
 Version: 1.0.4
 Author: UP
-Author URI: http://www.upshare.co
-Description: Simple, powerful tools to boost sharing and make your site more viral.
+Author URI: https://www.upshare.co/partners/sign_up
+Description: Simple, powerful tools to boost social sharing and make your site more viral.
 License: GPLv2 or later
 */
 
