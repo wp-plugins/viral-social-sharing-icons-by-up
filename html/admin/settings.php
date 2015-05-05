@@ -13,7 +13,7 @@
 			<div class="partner-id-main-contant1">
 				<h1>VISIT YOUR DASHBOARD TO CUSTOMIZE YOUR VIRAL SHARING BUTTONS</h1>
 				<div align="center" style="padding-top: 10px;">
-					<a class="partner-botton" href="http://www.upshare.co/partners/home" target="_blank">My Dashboard</a>
+					<a class="partner-botton" href="http://www.upshare.co/partners/area/" target="_blank">My Dashboard</a>
 				</div>
 			</div>
 		</div>
@@ -151,14 +151,14 @@ Viral Buttons in 2 Easy Steps</h1>
       
       <img src="<?php echo $this->_plugin_url . '/images/upshare.jpg' ?>" class= 'img-responsive' />
     
-      <h3><span>UP</span>Share</h3>
+      <h3>Floating</h3>
       <p>Sharing buttons pinned to the edge of the visitor’s screen as they scroll</p>
     </div>
     <div class="col-md-6">
     
       <img src="<?php echo $this->_plugin_url . '/images/upblog.jpg'?>" class= 'img-responsive' />
     
-      <h3><span>UP</span>Blog</h3>
+      <h3>In Content</h3>
       <p>Sharing buttons auto-appear below your headline and below your articles</p>
     </div>
   </div>
