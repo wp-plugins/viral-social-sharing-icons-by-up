@@ -37,8 +37,7 @@
 					<img src="<?php echo $this->_plugin_url . '/images/yes-icon.png'; ?>">
 					<h1>Create Your Account</h1>
 					<p>
-						Sign up as an UP partner for free, then enter your partner ID above to give your users points for sharing your content, 
-						and get access to the UP Partner Dashboard
+						Sign up as an UP partner for free and get access to the Partner Dashboard
 					</p>
 				</div>
 				<div class="widget-second1">
