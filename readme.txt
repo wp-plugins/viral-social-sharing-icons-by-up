@@ -2,7 +2,7 @@
 Contributors: upshare
 Tags: button, Facebook, google, linkedin, plugin, share, sharing, sidebar, social, social sharing, twitter, widget
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -146,7 +146,7 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 = 1.0.8 = 
 * Webmasters can now add Sharing Rewards from the UP Reward Store
 = 1.0.9 = 
-* Add new Follow buttons widget, allowing webmasters to get more fans on there social networks.
+* Added new Follow buttons widget, allowing webmasters to get more fans on there social networks.
 
 
 == Upgrade Notice ==
