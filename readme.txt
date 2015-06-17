@@ -62,7 +62,7 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 
 = Unique Viral Features = 
 
-*   Market-leading Social SHaring widget performance
+*   Market-leading Social Sharing widget performance
 *   Points-based incentives to give users a reason to share on social networks
 *   The more interactions a user’s share gets, the more points they’re awarded
 *   This ensures they share what their network responds to – so you aren’t seen as spam
