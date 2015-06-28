@@ -3,10 +3,10 @@
  * @package UP Share
  */
 /*
-Plugin Name: Viral Social Sharing by Upshare
+Plugin Name: Viral Social Sharing
 Version: 1.0.10
 Author: Upshare
-Author URI: https://www.upshare.co/partners/sign_up
+Author URI: https://www.upshare.co
 Description: Simple, powerful tools to boost social sharing and make your site more viral.
 License: GPLv2 or later
 */
@@ -220,7 +220,7 @@ class UP_ViralSharingSocial
 	}
 	public function filter_the_content($content)
 	{
-		return '<div id="upinpost-header" style="clear:both"></div>'.$content . '<div id="upinpost-footer" style="clear:both"></div>';
+		return '<div id="upinpost-header" style="clear:both"></div><div style="border:0px solid #444">'.$content . '</div><div id="upinpost-footer" style="clear:both"></div>';
 	}
 	protected function queryApi()
 	{

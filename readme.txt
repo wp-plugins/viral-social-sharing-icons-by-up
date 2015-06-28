@@ -1,4 +1,4 @@
-﻿=== Viral Social Sharing by Upshare ===
+﻿=== Viral Social Sharing ===
 Contributors: upshare
 Tags: button, Facebook, google, linkedin, plugin, share, sharing, sidebar, social, social sharing, twitter, widget
 Requires at least: 3.0
