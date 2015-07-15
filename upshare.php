@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Viral Social Sharing by Upshare
-Version: 1.0.10
+Version: 1.0.11
 Author: Upshare
 Author URI: https://www.upshare.co
 Description: Simple, powerful tools to boost social sharing and make your site more viral.
